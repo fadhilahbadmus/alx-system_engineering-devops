@@ -1,2 +1,2 @@
-#!/bin/bash
-mpv --vo=drm --no-audio /path/to/StarWarsIV.mp4
+#1/bin/bash
+telnet towel.blinkenlights.nl
