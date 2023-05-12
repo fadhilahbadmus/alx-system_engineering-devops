@@ -1,1 +1,2 @@
 #!/bin/bash
+mpv --vo=drm --no-audio /path/to/StarWarsIV.mp4
