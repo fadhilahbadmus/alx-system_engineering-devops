@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l /etc/ssh/sshd_config
+wc -l '^[a-z]' /etc/ssh/sshd_config
