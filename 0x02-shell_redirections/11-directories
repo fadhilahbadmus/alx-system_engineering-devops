@@ -1,2 +1,2 @@
-#!/bin/bash
-WC *11-directories
+#!/bin/bash 
+find . -type d -not -name '.' | wc -l
